@@ -7,3 +7,9 @@ header{
 main{
       background-color: #808080;
 }
+
+
+body{
+      background-image: url("record.png");
+      background-repeat: repeat;
+}
