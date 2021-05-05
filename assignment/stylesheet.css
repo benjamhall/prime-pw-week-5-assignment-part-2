@@ -1,7 +1,5 @@
 header{
-        background-color: #0000FF;
-        color: #00FFFF;
-        text-align: center;
+
 }
 
 main{
@@ -14,4 +12,10 @@ body{
       background-image: url("record.png");
       background-repeat: repeat;
       margin: 0;
+}
+
+.title{
+        background-color: #0000FF;
+        color: #00FFFF;
+        text-align: center;
 }
